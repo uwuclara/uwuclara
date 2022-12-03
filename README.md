@@ -8,4 +8,5 @@ I really love Pink & Madoka. <3
 <img height="300" src="https://ftp.teamofinstalockers.sk/hidden/madoka_background_small.jpg" /><br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=uwuclara&show_icons=true&theme=omni&count_private=true&bg_color=00000000&hide_rank=true" />
-
+<p align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuwuclara&count_bg=%23ED0BE5&title_bg=%23701E1E&icon=&icon_color=%23FF10F3&title=hits&edge_flat=false"/></a>
