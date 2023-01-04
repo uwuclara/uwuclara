@@ -1,7 +1,7 @@
 <p align="center">Welcome!</p><br>
 
 My name is Clara, I'm 21F Trans. I do some coding while I have no idea how to code, but at least learning from it.<br>
-Currently what I know the most is some webdev, PHP & C#. If u have any questions, please email me at <a href="mailto:uwuclara@uwuclara.dev">uwuclara@teamofinstalockers.sk.<br>
+Currently what I know the most is some webdev, PHP & C#. If u have any questions, please email me at <a href="mailto:uwuclara@uwuclara.dev">uwuclara@uwuclara.dev<br>
 I really love Pink & Madoka. <3
 <br>
 <p align="center">
