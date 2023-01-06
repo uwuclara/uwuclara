@@ -5,7 +5,7 @@ Currently what I know the most is some webdev, PHP & C#. If u have any questions
 I really love Pink & Madoka. <3
 <br>
 <p align="center">
-<img height="300" src="https://ftp.teamofinstalockers.sk/hidden/madoka_background_small.jpg" /><br>
+<img height="300" src="https://ftp.uwuclara.dev/hidden/madoka_background_small.jpg" /><br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=uwuclara&show_icons=true&theme=omni&count_private=true&bg_color=00000000&hide_rank=true" />
 <p align="center">
